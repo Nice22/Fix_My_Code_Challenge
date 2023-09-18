@@ -34,4 +34,3 @@ docs-prod` and navigating your browser to `http://localhost:4000`
 
 [webpack-hot]: http://webpack.github.io/docs/hot-module-replacement-with-webpack.html
 [react-hot]: http://gaearon.github.io/react-hot-loader/
-
